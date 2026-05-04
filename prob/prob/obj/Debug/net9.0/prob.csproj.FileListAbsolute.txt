@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\prob\prob\bin\Debug\net9.0\prob.exe
+C:\Users\dell\source\repos\prob\prob\bin\Debug\net9.0\prob.deps.json
+C:\Users\dell\source\repos\prob\prob\bin\Debug\net9.0\prob.runtimeconfig.json
+C:\Users\dell\source\repos\prob\prob\bin\Debug\net9.0\prob.dll
+C:\Users\dell\source\repos\prob\prob\bin\Debug\net9.0\prob.pdb
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\prob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\prob.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\prob.AssemblyInfo.cs
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\prob.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\prob.dll
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\refint\prob.dll
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\prob.pdb
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\prob.genruntimeconfig.cache
+C:\Users\dell\source\repos\prob\prob\obj\Debug\net9.0\ref\prob.dll
